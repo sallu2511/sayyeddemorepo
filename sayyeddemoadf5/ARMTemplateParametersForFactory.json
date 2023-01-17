@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "sayyeddemoadf5"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
